@@ -1,5 +1,4 @@
-# final-project-jana-zaid
-final-project-jana-zaid created by GitHub Classroom
+
 about snapchat application 
 
 
